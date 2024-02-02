@@ -29,11 +29,16 @@ Glitched successfully</pre>
 - `pip install pywin32`
 
 ### Linux (ubuntu)
-- $ `sudo apt update`
-- $ `sudo apt install python git python-pip`
-- $ `git clone https://github.com/e811-py/GlitchMic`
-- $ `cd GlitchMic`
-- $ `pip install pyalsaaudio`
+ $ `sudo apt update`
+ 
+ $ `sudo apt install python git python-pip`
+ 
+ $ `git clone https://github.com/e811-py/GlitchMic`
+ 
+ $ `cd GlitchMic`
+ 
+ $ `pip install pyalsaaudio`
+ 
 
 ## Usage
 `python GlitchMic.py`
