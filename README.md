@@ -33,7 +33,7 @@ Glitched successfully</pre>
  
  $ `sudo apt install python git python-pip`
  
- $ `git clone https://github.com/e811-py/GlitchMic`
+ $ `git clone https://github.com/Mr3rf1/GlitchMic`
  
  $ `cd GlitchMic`
  
